@@ -1,0 +1,17 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "testimonials-marquee",
+  "title": "Testimonials Marquee",
+  "author": "youssefkandeel <hello@youssefkandeel.com>",
+  "description": "Scrolling marquee to showcase user testimonials.",
+  "registryDependencies": [
+    "@kibo-ui/marquee",
+    "https://youssefkandeel.com/r/testimonial.json"
+  ],
+  "files": [],
+  "docs": "https://youssefkandeel.com/components/testimonials-marquee",
+  "categories": [
+    "marketing"
+  ],
+  "type": "registry:component"
+}
